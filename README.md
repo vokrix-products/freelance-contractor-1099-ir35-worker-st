@@ -15,3 +15,10 @@ Landing: https://vokrix.co/freelance-contractor-1099-ir35-worker-st
 Outreach: active
 
 <!-- qa fixes -->
+
+## QA Fixes Applied
+
+- Added /dashboard route returning HTML response
+- Fixed /generate-data endpoint to return "content"
+- Fixed /paywall-check endpoint to return "content"
+- Added wrangler.toml with RAILWAY_SERVICE_ID variable
