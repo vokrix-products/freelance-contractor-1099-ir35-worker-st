@@ -1,12 +1,8 @@
-import type { NextPage } from 'next'
-
-const Dashboard: NextPage = () => {
-  return (
-    <div>
-      <h1>Dashboard</h1>
-      <p>Status: worker active</p>
-    </div>
-  )
-}
-
-export default Dashboard
+import React from 'react';
+const Dashboard = () => (
+  <div>
+    <h1>Dashboard</h1>
+    <p>Your projects and analytics.</p>
+  </div>
+);
+export default Dashboard;

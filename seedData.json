@@ -1,0 +1,21 @@
+{
+  "jobs": [
+    {
+      "title": "Website redesign",
+      "budget": 2000
+    },
+    {
+      "title": "Logo design",
+      "budget": 500
+    },
+    {
+      "title": "Content writing",
+      "budget": 800
+    },
+    {
+      "title": "SEO audit",
+      "budget": 1200
+    }
+  ],
+  "users": 12
+}

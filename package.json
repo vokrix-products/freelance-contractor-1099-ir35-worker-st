@@ -1,0 +1,10 @@
+{
+  "name": "freelance-contractor-1099-ir35-worker-st",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "python main.py",
+    "build": "echo 'Build complete'",
+    "start": "python main.py"
+  }
+}
