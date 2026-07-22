@@ -10,6 +10,7 @@ conn.execute("""
     )
 """)
 conn.execute("INSERT INTO builds (service_name, status) VALUES (?, ?)", ("freelance-contractor", "deployed"))
+conn.execute("INSERT INTO builds (service_name, status) VALUES (?, ?)", ("railway", "active"))
 conn.commit()
 conn.close()
 print("Build record inserted")
