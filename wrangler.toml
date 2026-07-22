@@ -1,0 +1,6 @@
+name = "freelance-contractor-1099-ir35-worker-st"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+
+[vars]
+RAILWAY_SERVICE_ID = "placeholder-id"
